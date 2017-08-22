@@ -10,7 +10,7 @@ CDN LIST
     <!--- jQuery CDN --->
     <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
 
-source[src]
+[source][src]
 
 [src]: https://code.jquery.com
 
@@ -21,7 +21,7 @@ source[src]
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
 
-source[src]
+[source][src]
 
 [src]: https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
@@ -37,7 +37,7 @@ source[src]
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-source[src]
+[source][src]
 
 [src]: https://getbootstrap.com/docs/3.3/getting-started/
 
@@ -46,6 +46,6 @@ source[src]
     <!--- GSAP CDN --->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js"></script>
 
-source[src]
+[source][src]
 
 [src]: https://greensock.com/
