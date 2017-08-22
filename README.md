@@ -1,8 +1,8 @@
 CDN LIST
 ========
-* 【jQuery】(#jquery)
-* 【Bootstrap】(#bootstrap)
-* 【GSAP】(#gsap)
+* [jQuery](#jquery)
+* [Bootstrap](#bootstrap)
+* [GSAP](#gsap)
 
 <h3 id="jquery">jQuery CDN</h3>
 
